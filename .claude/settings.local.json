@@ -5,7 +5,11 @@
       "Bash(cat:*)",
       "Bash(npm install:*)",
       "Bash(npm run build:*)",
-      "Bash(npm run dev:*)"
+      "Bash(npm run dev:*)",
+      "Bash([ -d \"node_modules\" ])",
+      "Bash(git reset:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []
