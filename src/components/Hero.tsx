@@ -22,7 +22,7 @@ const Hero = () => {
       delay: 0
     },
     {
-      href: "tel:+212696250006",
+      href: "tel:+212695260006",
       icon: Phone,
       label: "Call Imad Nesrate",
       delay: 0.1
